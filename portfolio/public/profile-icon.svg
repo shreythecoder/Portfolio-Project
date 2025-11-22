@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#0a0e27"/>
+  
+  <!-- Head circle -->
+  <circle cx="32" cy="22" r="12" fill="#06b6d4"/>
+  
+  <!-- Shoulders/body -->
+  <path d="M 20 36 Q 20 32 32 32 Q 44 32 44 36 L 44 50 Q 44 54 40 54 L 24 54 Q 20 54 20 50 Z" fill="#06b6d4"/>
+  
+  <!-- Accent highlight -->
+  <circle cx="32" cy="22" r="11" fill="none" stroke="#8b5cf6" stroke-width="1" opacity="0.5"/>
+</svg>
