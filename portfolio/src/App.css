@@ -1410,6 +1410,33 @@ footer::before {
     text-align: center;
   }
 
+  .footer-section p {
+    text-align: center;
+  }
+
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .footer-links {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .footer-bottom {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .footer-copy {
+    text-align: center;
+  }
+
   .photo-wrap {
     width: 240px;
     height: 240px;
